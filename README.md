@@ -88,7 +88,7 @@
 
 | 평가 항목          | 확인 문서                          |
 | -------------- | ------------------------------ |
-| 업무 과업 정의       | README.md, 02_system_design.md |
+| 업무 과업 정의       | 02_system_design.md |
 | 입력 템플릿         | 02_system_design.md            |
 | 모델 비교          | 01_model_comparison.md         |
 | 평가 축 기반 비교     | 01_model_comparison.md         |
